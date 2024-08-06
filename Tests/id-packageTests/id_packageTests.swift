@@ -1,5 +1,5 @@
 import XCTest
-@testable import id_package
+@testable import ID
 
 final class id_packageTests: XCTestCase {
     func testExample() throws {
